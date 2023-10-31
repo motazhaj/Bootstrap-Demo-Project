@@ -1,0 +1,10 @@
+ html{
+    color: gray;
+}
+
+#carousel-main img{
+    width: 100%;
+    height: 55rem;
+    object-fit: cover;
+    overflow: hidden;
+}
